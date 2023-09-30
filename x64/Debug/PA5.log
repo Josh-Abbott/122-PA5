@@ -1,0 +1,9 @@
+﻿  Data.cpp
+  Queue.cpp
+  QueueNode.cpp
+C:\Users\lucar\OneDrive\Documents\WSU\CPT_S 122\Programming Assignments\PA5\PA5\QueueNode.cpp(17,11): warning C4101: 'copy': unreferenced local variable
+  TestCases.cpp
+  main.cpp
+C:\Users\lucar\OneDrive\Documents\WSU\CPT_S 122\Programming Assignments\PA5\PA5\main.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  PA5.vcxproj -> C:\Users\lucar\OneDrive\Documents\WSU\CPT_S 122\Programming Assignments\PA5\x64\Debug\PA5.exe
